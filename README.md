@@ -1,12 +1,12 @@
 # Portafolio-Jhoana-Escobar-1950748
 Seminario para el Desempeño Profesional
-# Hola 👋 Soy Jhoana Escobar
+# Hola Soy Jhoana Escobar
 
-💻 Estudiante de Ciencias computacionales apasionada por el desarrollo web, la organización de proyectos y el trabajo en equipo.
+Estudiante de Ciencias computacionales apasionada por el desarrollo web, la organización de proyectos y el trabajo en equipo.
 
-🚀 Actualmente me encuentro realizando prácticas profesionales como Project Manager Intern, apoyando en actividades de gestión y seguimiento de proyectos tecnológicos.
+Actualmente me encuentro realizando prácticas profesionales como Project Manager Intern, apoyando en actividades de gestión y seguimiento de proyectos tecnológicos.
 
-## 👩‍💼 Lo que hago en mis prácticas profesionales
+## Lo que hago en mis prácticas profesionales
 
 * Seguimiento de tickets e incidencias.
 * Organización y actualización de tareas en ClickUp.
@@ -18,7 +18,7 @@ Seminario para el Desempeño Profesional
 * Automatización de tareas dentro de plataformas de gestión.
 * Apoyo en control y monitoreo del avance de proyectos.
 
-## 🌱 Actualmente aprendiendo
+## Actualmente aprendiendo
 
 * HTML
 * CSS
@@ -37,7 +37,7 @@ Seminario para el Desempeño Profesional
 * SQL
 * ESP32-CAM
 
-## 📌 Proyectos destacados
+## Proyectos destacados
 
 ### SisFun
 
@@ -51,7 +51,7 @@ Aplicación web para seguimiento de hábitos y productividad.
 
 Diseño web responsive inspirado en interfaces empresariales.
 
-## ✨ Habilidades
+## Habilidades
 
 * Organización
 * Responsabilidad
@@ -62,6 +62,6 @@ Diseño web responsive inspirado en interfaces empresariales.
 * Gestión del tiempo
 * Liderazgo
 
-## 🎯 Objetivo Profesional
+## Objetivo Profesional
 
 Seguir creciendo profesionalmente en el área de Project Management y desarrollo frontend, participando en proyectos tecnológicos innovadores y colaborativos.
